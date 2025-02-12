@@ -1,4 +1,8 @@
 #!/bin/bash
+<<help
+this is a  shell scripit to take backups
+can also be used with cron
+help
 
 # Configuration
 BACKUP_DIR="/home/ubuntu/backups"          # Directory to store backups
